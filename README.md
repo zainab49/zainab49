@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zainab Nasser, and I'm a network engineer from Bahrain.</h2>
+<h2 align="left">Hi 👋! My name is Zainab Nasser, and I'm a network engineering from Bahrain.</h2>
 
 ###
 
