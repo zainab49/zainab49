@@ -41,8 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zainab49/zainab49/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="center">Thank you for visiting my profile! Let's build something amazing together! 🤝</p>
